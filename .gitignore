@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+ios/
+android/
+macos/
+linux/
+windows/
+web/
+
+# VS Code
+.vscode/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Flutter generated files
+pubspec.lock
